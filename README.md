@@ -30,6 +30,9 @@ APEXSHELL
 
 ## Installation
 1. Clone/download the project.
+   ```bash
+   git clone https://github.com/iisl4r/ApexShell.git
+   ```
 2. Install Metasploit and MinGW-w64:
    ```bash
    sudo apt-get install mingw-w64 metasploit-framework 
